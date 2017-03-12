@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=c
+comment0.target=enemy(objectdraw.DrawingCanvas)
+comment1.params=x\ y
+comment1.target=void\ firstclick(double,\ double)
+comment2.params=c\ q
+comment2.target=enemy(objectdraw.DrawingCanvas,\ int)
+comment3.params=
+comment3.target=void\ run()
+comment4.params=Up\ Over
+comment4.target=void\ move(int,\ int)
+comment5.params=
+comment5.target=void\ generate()
+comment6.params=x\ y\ c
+comment6.target=void\ moveYou(double,\ double,\ objectdraw.DrawingCanvas)
+comment7.params=
+comment7.target=void\ checkOverlap()
+numComments=8
